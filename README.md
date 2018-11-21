@@ -9,6 +9,13 @@ for in is used to loop through properties of an object. It can be any object. fo
 
 for of is a new way for iterating collections. Its introduced in ES6. Earlier you had to use for or while loop to iterate through elements of an collection. For for of to work on an collection, the collection must have an [Symbol.iterator] property.
 
+A Comparison
+                  for..in	               for..of
+Applies to	      Enumerable Properties	Iterable Collections
+Use with Objects?	Yes	                  No
+Use with Arrays?	Yes, but not advised	   Yes
+Use with Strings?	Yes, but not advised	   Yes
+
 <html>
 <head></head>
 <body>
