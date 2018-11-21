@@ -13,8 +13,8 @@ A Comparison
                   for..in	               for..of
 Applies to	      Enumerable Properties	Iterable Collections
 Use with Objects?	Yes	                  No
-Use with Arrays?	Yes, but not advised	   Yes
-Use with Strings?	Yes, but not advised	   Yes
+Use with Arrays?	Yes, but not advised	Yes
+Use with Strings?	Yes, but not advised	Yes
 
 <html>
 <head></head>
